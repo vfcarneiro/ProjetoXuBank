@@ -2,13 +2,8 @@
 🏦 Projeto XuBank: Sistema Bancário em Java
 Este projeto simula um sistema bancário básico em Java, aplicando os principais conceitos de Programação Orientada a Objetos (POO).
 
-Conceitos de POO Aplicados
-A POO organiza o código em torno de objetos (instâncias de Classes), que possuem características (atributos) e comportamentos (métodos). O XuBank demonstra os seguintes pilares:
 
-Encapsulamento
-Herança
-Polimorfismo
-Abstração
+Foram aplicados os conceitos de POO aprendidos nas aulas de programação modular. A POO organiza o código em torno de objetos (instâncias de Classes), que possuem características (atributos) e comportamentos (métodos). O XuBank demonstra os seguintes pilares: encapsulamento, herança, polimorfismo, etc
 
 
 Como Rodar o Projeto
