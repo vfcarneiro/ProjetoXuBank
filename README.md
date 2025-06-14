@@ -1,4 +1,4 @@
-# ProjetoXuBank
+# Projeto XuBank
 🏦 Projeto XuBank: Sistema Bancário em Java
 Este projeto simula um sistema bancário básico em Java, aplicando os principais conceitos de Programação Orientada a Objetos (POO).
 
