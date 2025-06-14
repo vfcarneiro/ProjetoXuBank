@@ -15,3 +15,5 @@ cd ProjetoXuBank
 Abra o projeto na sua IDE Java 
 
 Execute a classe Console
+
+mermaid-diagram-2025-06-13-235120.png
